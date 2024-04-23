@@ -1,6 +1,14 @@
 <<dd_version: 2>>     
 <<dd_include: header.txt>>
 
+# Homework 4 of Stata programming-II
+Wei Lin
+
+## Instructions:
+1. First, we'll Initialize the dataset with 30 observations.
+2. Second, we'll generate two variables about age, one is under normal distribution and the other under t distribution.
+3. Last, we'll plot a histogram for visulization.
+
 
 
 ```
@@ -20,6 +28,8 @@ hist age, ///
 	  )
 <</dd_do>>
 ```
+
+###  $Distribution of Age$
 
 <<dd_graph>>
 
